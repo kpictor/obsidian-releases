@@ -1,14 +1,14 @@
 {
-    "minimumVersion": "0.14.5",
-    "latestVersion": "1.10.6",
-    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.10.6/obsidian-1.10.6.asar.gz",
-    "hash": "G8UugsNCrhypWZWomCEIHUoCpWh3ptTInxcttLt61rM=",
-    "signature": "MKBVLr7tyXaoQPsGtULcqekO97s2Ov3VrhmI9bZb2fpxctVnQm5cHHwNTO+3TKAJPpqvkLqf4rjvRU62a1xjYZF4lWB8M42PvzHTQvQS1wYmi9J9CNa+ZKdvjNM59fn8lslBOMoCqVObUpdJxFeTXmz6QQn9slpRqgkskAE3Lj/9ukkY/bOn/+c/W5WRblOY3PkJGOOP1nUt+RUeY2Q7uvTJzjYQ3oQEpNqZWFTqNyqRbdvDf0+V6miOKcmlAIAmfbLvhPkKNaBmGdNrcBJxoGkP5Br0X89Q5GaV5Jo7shaghUUYzUlwsMnlKBX2W4hIOXYmd6RFyTf/YWwxN+vrIQ==",
+    "minimumVersion": "1.1.9",
+    "latestVersion": "1.13.7",
+    "downloadUrl": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/obsidian-1.13.7.asar.gz",
+    "hash": "aSU+OaoLmA48+W6eiopL7Wtkge9wIc12L2eHJmLY0lo=",
+    "signature": "1uwLwiTpbGz4HNV+14BVxFkyWu+Xr/XqnKASPJ9fgu4RapVRYJJ056yFzpiQC7O8/hz5UZmZiE8fXxRJxrw+KenuVktFBWV4xlrd77y+G+MKUH8R6SK5vhBkeGjd9S56ofqSVjN/1YZx/+9NCVWjUGBHgr+Z9LI0ObQWeOw+AqgVDz5ajivFo+BoV9d1dauaPyVsfUMqZ7LBrem9ZGCUIrD0eEVEHxe/V80lMqLlBLXS03/1YngFkh6Djs5Tfr5BApOERkydLI8GuT1mG7oG4ClVm396QC29yR9p9UymLmiNXKxbgu8PMCdWE5ArHhLtkoTCAIeMNR81snDFCGm6Hg==",
     "beta": {
-        "minimumVersion": "0.14.5",
-        "latestVersion": "1.11.0",
-        "downloadUrl": "https://releases.obsidian.md/release/obsidian-1.11.0.asar.gz",
-        "hash": "duPYm5bwargv8QEJxoOZoAc++pJWzQzefGKJVfV19b4=",
-        "signature": "MjNms+PMOajg6pqFCC1uk27bPFaDsXFyTS31Zx/v+9+ilp4kRg5QYyP3KQMObrN+3SENW8diSj+BcdFWxSK4YTYa6mHIBnAUWk8Rw1Hir3saGVAk2e1lbALwWihJbywTP8xRsXTQMmpW/OIOiePIUrJ5oJCyFxHYU7M3Yz26lf463ByZA0m9I0cwvycdIp/Bf/sbca/g8Jl+kQr8NGLxPTKDT/M5TTEwx9WXmdZv1uY7T7sPxJ8E1ci4oyKaLz6nu8OYhE0KIh0JXpqNa315Ur7gbydoTH2lfEyOeCpbDIb9M/BGWB9O7bwPm5PSUDTGBLK/P8OnB5ziLg6oX782hg=="
+        "minimumVersion": "1.1.9",
+        "latestVersion": "1.14.0",
+        "downloadUrl": "https://releases.obsidian.md/release/obsidian-1.14.0.asar.gz",
+        "hash": "ONRP0EJFbGST/Fle2IaFYDZS1xl6rxGZqRupboRBz2g=",
+        "signature": "vkP+HDO5RwGv6tYZix+hnR4DvQdL2vLydlFNo0545qN3EIClncxZsGphp5NsAoyQAlj/pChCyxsnEDPVAKrGzM4Hg0bRqHC4SFHJjDAhqXeP5QnVMbik/tJTYRYgrg+TyeL3TbPTOOY1wbKJtOgmPvDAQ9aWZM9XzDcRw36q2xXlCZh5MwhnUEkVlslWaVvbelo8FKg/Y7nC3kJMtfgEstRaag1IZjy336TcUz/nNMH/dnKPcwFXxKfah618UTqM7hN/dO9GJcCpdNYt0gk5F+snRyDO1arQw9nSiEYW6tF07+8qle//XYW9nJp7oSZyqWG8DVhkbcCnblLOJ9legA=="
     }
 }
